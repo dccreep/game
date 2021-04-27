@@ -1,4 +1,6 @@
 Life = 3
 Coins = 0
+Exp = 0
+Level = 1
 print("Welcome to Our Project")
 Name = input("What is your nickname?")
