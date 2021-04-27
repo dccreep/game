@@ -2,3 +2,5 @@ Life = 3
 Coins = 0
 print("Welcome to Our Project")
 Name = input("What is your nickname?")
+print(Name"?")
+print("thats a nice name")
