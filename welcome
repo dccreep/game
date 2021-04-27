@@ -1,0 +1,9 @@
+Life = 3
+Coins = 0
+Exp = 0
+Level = 1
+print("Welcome to Our Project.")
+Name = input("What is your nickname?")
+print(Name"?")
+print("Thats a nice name.")
+print("But in this world things are not nice, this is a world of suffering, torment and agony. YOU ARE DEAD! You were a horrible person when you were alive, committing hate crimes and genocide. So god thought that hell was not enough for you and created this world, do you not feel special?")
